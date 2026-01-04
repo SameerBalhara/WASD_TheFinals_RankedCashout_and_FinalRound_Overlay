@@ -3,8 +3,9 @@ Applying scoreboard math to solve for who is alive and dead in The Finals Ranked
 
 **Instructions**
 1. Press the green "Code" button in the top right and select "Download ZIP"
-2. Unzip the file and only keep the following files: "WASD_RankedCashout_and_FinalRound_Overlay.exe", "settings.json", "README.md"
+2. Unzip the file (click Extract All) and only keep the following files: "WASD_RankedCashout_and_FinalRound_Overlay.exe", "settings.json"
 3. Customize settings.json with any preferred keybinds and save this file prior to launching the exe. Ensure settings.json and WASD_RankedCashout_and_FinalRound_Overlay.exe always exist in the same folder/directory
+4. When "Windows protected your PC" appears, click "More Info" and "Run Anyway" (Pending Embark Whitelist)
 
 **Checklist**
 1. Ensure Borderless Fullscreen Mode is enabled in-game
